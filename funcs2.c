@@ -2,7 +2,7 @@
 #include <time.h>
 #include <stdlib.h>
 #include <string.h>
-#include "funcs.h"
+#include "funcs2.h"
 
 int llength(node *head) {
     node *tmp = head;

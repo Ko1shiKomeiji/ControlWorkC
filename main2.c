@@ -1,4 +1,4 @@
-#include "funcs.h"
+#include "funcs2.h"
 #include <stdio.h>
 #include <time.h>
 #include <stdlib.h>
